@@ -30,3 +30,6 @@ def compute_bill(food):
   return total
 
 print compute_bill(shopping_list)
+
+
+# Dynamic shopping interface courtesy of out_liar consulting
